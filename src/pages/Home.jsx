@@ -4,7 +4,7 @@ import Feedback from "../components/homecomponents/Feedback";
 import Flavors from "../components/homecomponents/Flavors";
 import FoodSlider from "../components/homecomponents/FoodSlider";
 import Footer from "../components/homecomponents/Footer";
-import Logo from "../components/homecomponents/logo";
+import Logo from "../components/homecomponents/Logo";
 import LunchMenu from "../components/homecomponents/LunchMenu";
 import Menu from "../components/homecomponents/Menu";
 import OurDishes from "../components/homecomponents/OurDishes";
