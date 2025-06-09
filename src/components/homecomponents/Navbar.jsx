@@ -1,42 +1,4 @@
-// import { Facebook, Instagram,  Mail} from 'lucide-react';    
 
-
-
-// const Navbar = ()=>{
-//     return(
-//         <>
-//             <div className="p-5 flex items-center justify-between">
-//                 {/* left side navbar */}
-//                 <div className=" flex items-center  gap-5"> 
-//                 <img src="../../../public/img/weblogo.jpg" alt="Logo" className=" rounded-full w-10"/> 
-//                 <samp className="text-white text-cente text-3xl font-bold ">Tangerine</samp>
-//                 </div>
-//                 {/* right side navbar */}
-//                 <div className="flex items-center  gap-8 text-white text-center font-bold text-lg [&>a]:border-b-4 [&>a]:border-transparent [&>a]:hover:border-orange-500 [&>a]:transition-all [&>a]:duration-300 [&>a]:hover:-translate-y-1 [&>div]:hover:bg-amber-600 [&>div]:hover:border-white">
-//                     <a  href="#">About</a>
-//                     <a  href="#">Menu</a>
-//                     <a  href="#">Contact</a>
-//                     <a  href="#">Order Online</a>
-//                     {/* mail icon */}
-//                     <div className=" p-1 rounded-full border ">
-//                         <a href='#'><Mail size={18} /></a>
-//                     </div>
-//                      {/* Facebook Icon */}
-//                     <div className=" p-1 rounded-full border">
-//                         <a href='#'><Facebook size={18} /></a>
-//                     </div>
-//                     {/* Instragram icon */}
-//                     <div className=" p-1 rounded-full border">
-//                         <a href='#'><Instagram size={18} /></a>
-//                     </div>
-                    
-
-//                 </div>
-//             </div>
-//         </>
-//     )
-// }
-// export default Navbar;
 
 
 import React, { useState } from 'react';
@@ -51,7 +13,7 @@ const Navbar = () => {
         {/* Left side */}
         <div className="flex items-center gap-5">
           <img
-            src="../../../public/img/weblogo.jpg"
+            src="https://graphicdesigneye.com/images/rastaurant-logo-design-service.png"
             alt="Logo"
             className="rounded-full w-10"
           />

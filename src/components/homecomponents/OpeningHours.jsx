@@ -23,7 +23,7 @@ const OpeningHours = () => {
         {/* Image Overlay */}
       <div className="absolute right-[50%] top-[50%] translate-y-[-50%] z-20  overflow-hidden shadow-lg w-[600px]">
         <img
-          src={"../../../public/img/logo.jpg"}
+          src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs93yGxdB9pS_lniOca2lN71kmb3ZsQTX4nQ&s"}
           alt="restaurant"
           className="w-full h-full object-cover transition-transform duration-300 hover:scale-110 rounded-4xl"
         />

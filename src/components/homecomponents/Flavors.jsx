@@ -11,7 +11,7 @@ const Flavors = () => {
       {/* Image Overlay */}
       <div className="absolute right-[50%] top-[50%] translate-y-[-50%] z-20 rounded-3xl overflow-hidden shadow-lg w-[600px]">
         <img
-          src={"../../../public/img/logo.jpg"}
+          src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnwCeqPki7o3hOWUPHFW_JQ-QnBZfFNYvVA&s"}
           alt="restaurant"
           className="w-full h-full object-cover transition-transform duration-300 hover:scale-110"
         />
